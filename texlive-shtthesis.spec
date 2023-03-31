@@ -1,6 +1,6 @@
 Name:		texlive-shtthesis
 Version:	62441
-Release:	1
+Release:	2
 Summary:	An unofficial LaTeX thesis template for ShanghaiTech University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/shtthesis
