@@ -3,7 +3,7 @@ Version:	62441
 Release:	2
 Summary:	An unofficial LaTeX thesis template for ShanghaiTech University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/shtthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/shtthesis
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/shtthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/shtthesis.doc.r%{version}.tar.xz
